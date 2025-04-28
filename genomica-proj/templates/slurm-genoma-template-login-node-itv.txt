@@ -188,7 +188,7 @@ Autoscale = $Autoscale
         [[[network-interface vm-login-node-cluster1-nic2]]]
             #NetworkInterfaceId = ""
         #itv
-        PrivateIp = "10.20.250.133 "
+        PrivateIp = "10.20.250.133"
         #PrivateIp = "10.20.3.60"
 
         [[[cluster-init cyclecloud/slurm:login:3.0.11]]]
